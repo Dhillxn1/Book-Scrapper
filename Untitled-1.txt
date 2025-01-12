@@ -1,0 +1,4 @@
+web_scraper.py.
+pip install requests beautifulsoup4
+Terminal: Clear
+
